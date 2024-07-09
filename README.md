@@ -22,8 +22,6 @@ To replicate this project, you will need the following hardware components:
 - Breadboard and jumper wires
 
 ## Software Requirements
-Ensure you have the following software installed:
-
 - Arduino IDE
 
 ## Circuit Diagram
