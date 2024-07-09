@@ -25,13 +25,13 @@ This repository contains the code to implement a basic interaction between a but
 3- Open the esp32_code.ino file from the cloned repository.
 4- Install ESP32 Board Support:
 
-1- File => Preferences => Paste this in "Additional Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json
-2- Tools => Board => Boards Manager => search "ESP32" then Install it.
-3- Connect ESP32 to the computer.
-4- Choose The Board: Tools => Board => ESP32 Arduino => WEMOS D1 MINI ESP32.
-5- To Test The ESP32: File => Examples => Basics => Blink
-6- Upload the code
-7- Then the LED in the ESP32 will Blink, that's mean it's work well.
+* File => Preferences => Paste this in "Additional Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json
+* Tools => Board => Boards Manager => search "ESP32" then Install it.
+* Connect ESP32 to the computer.
+* Choose The Board: Tools => Board => ESP32 Arduino => WEMOS D1 MINI ESP32.
+* To Test The ESP32: File => Examples => Basics => Blink
+* Upload the code
+* Then the LED in the ESP32 will Blink, that's mean it's work well.
 
 5- Upload The Code.
 
