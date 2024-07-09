@@ -1,20 +1,10 @@
 # ESP32 LED Control with Button Press
 This project demonstrates a simple circuit using the ESP32 microcontroller, where an LED turns on when a button is pressed. The code provided here sets up the ESP32 to monitor a button state and control an LED accordingly.
 
-## Table of Contents
-- Introduction
-- Hardware Requirements
-- Software Requirements
-- Circuit Diagram
-- Setup Instructions
-- Usage
-
 ## Introduction
-This repository contains the code and resources to implement a basic interaction between a button and an LED using the ESP32 microcontroller. The LED connected to pin 2 lights up whenever the button connected to pin 34 is pressed. This is a simple example to demonstrate digital input and output handling on the ESP32 platform.
+This repository contains the code to implement a basic interaction between a button and an LED using the ESP32 microcontroller. The LED connected to pin 2 lights up whenever the button connected to pin 34 is pressed. This is a simple example to demonstrate digital input and output handling on the ESP32 platform.
 
 ## Hardware Requirements
-To replicate this project, you will need the following hardware components:
-
 - ESP32 development board
 - 1 LED
 - 1 Pushbutton
