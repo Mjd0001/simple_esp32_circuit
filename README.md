@@ -19,10 +19,11 @@ This repository contains the code to implement a basic interaction between a but
 
 ## Setup Instructions
 1- Download or Clone the Repository.
-
+<br>
 2- Open in Arduino IDE:
-
+<br>
 3- Open the esp32_code.ino file from the cloned repository.
+<br>
 4- Install ESP32 Board Support:
 
 * File => Preferences => Paste this in "Additional Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json
@@ -32,9 +33,9 @@ This repository contains the code to implement a basic interaction between a but
 * To Test The ESP32: File => Examples => Basics => Blink
 * Upload the code
 * Then the LED in the ESP32 will Blink, that's mean it's work well.
-
+<br>
 5- Upload The Code.
-
+<br>
 ## Usage
 Once the code is uploaded successfully. Press the button connected to pin 34; the LED connected to pin 2 should turn on.
 Release the button to turn off the LED
